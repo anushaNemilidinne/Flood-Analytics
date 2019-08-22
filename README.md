@@ -20,4 +20,4 @@ in flood incidence and conduct some experiments that explore the relationship
 between rainfall and soil moisture. Finally, we develop a web application called
 FloodNet, a real time water level prediction system, with a forecast horizon of 2
 hours for a location along Buffalo Bayou in Houston, Texas.
-![alt text](https://raw.githubusercontent.com/anushaNemilidinne/Flood-Analytics/master/floodnet_frstpart.png)
+<img width="950" alt="floodnet_frstpart" src="https://user-images.githubusercontent.com/35274794/63553124-1cc6b580-c4ff-11e9-9a2c-f4781b965c5d.PNG">
